@@ -1,1 +1,0 @@
-1. In {% data variables.product.prodname_vscode_shortname %}, in the left sidebar, click the Remote Explorer icon. ![O ícone do Remote Explorer em {% data variables.product.prodname_vscode %}](/assets/images/help/codespaces/click-remote-explorer-icon-vscode.png)

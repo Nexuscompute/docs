@@ -1,1 +1,0 @@
-You can create default issue templates and a default configuration file for issue templates for your organization or personal account. 更多信息请参阅“[创建默认社区健康文件](/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)”。
