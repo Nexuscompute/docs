@@ -1,1 +1,0 @@
-You can link a pull request to an issue to show that a fix is in progress and to automatically close the issue when someone merges the pull request. 更多信息请参阅“[将拉取请求链接到议题](/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)”。
